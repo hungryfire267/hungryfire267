@@ -1,8 +1,8 @@
 # Hi, I am Gordon and welcome to my Github page. 
 
-First-Class Honours Statistics graduate (UNSW) with a strong focus on applied data science, machine learning, and quantitative modelling.
+First-Class Honours Statistics graduate (UNSW) with a strong focus on applied data science, machine learning and quantitative modelling.
 
-I enjoy building end-to-end projects — from data ingestion and feature engineering to modelling, evaluation, and deployment — with an emphasis on **clarity, robustness, and real-world impact**.
+I enjoy building end-to-end projects from data ingestion and feature engineering to modelling, evaluation and deployment with an emphasis on **clarity, robustness, and real-world impact**.
 
 
 
@@ -26,8 +26,7 @@ I enjoy building end-to-end projects — from data ingestion and feature enginee
 
 
 ## Technical interests
-- Python, SQL and R
-- Machine learning for both structured and unstructured data
+- Statistical Modelling and Machine learning for both structured and unstructured data
 - Time series, forecasting, risk modelling
 - Backtesting, evaluation, and model diagnostics
 - AWS and Docker (learning and experimenting)
