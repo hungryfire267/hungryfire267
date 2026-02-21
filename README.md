@@ -4,10 +4,21 @@ First-Class Honours Statistics graduate (UNSW) with a strong focus on applied da
 
 I enjoy building end-to-end projects — from data ingestion and feature engineering to modelling, evaluation, and deployment — with an emphasis on **clarity, robustness, and real-world impact**.
 
+
+
+
+
+
 ## What I’m working on
 - 📊 Applied machine learning projects (tabular ML, forecasting, imputation)
 - 📈 Quantitative finance & systematic trading research
 - 🧠 Bridging academic methods with production-style pipelines
+
+
+## Technical Skills
+- **Languages**: ![Python](https://img.shields.io)
+
+
 
 ## Technical interests
 - Python, SQL and R
