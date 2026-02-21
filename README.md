@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I am Gordon 👋
 
-<!--
-**hungryfire267/hungryfire267** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+First-Class Honours Statistics graduate (UNSW) with a strong focus on applied data science, machine learning, and quantitative modelling.
 
-Here are some ideas to get you started:
+I enjoy building end-to-end projects — from data ingestion and feature engineering to modelling, evaluation, and deployment — with an emphasis on **clarity, robustness, and real-world impact**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I’m working on
+- 📊 Applied machine learning projects (tabular ML, forecasting, imputation)
+- 📈 Quantitative finance & systematic trading research
+- 🧠 Bridging academic methods with production-style pipelines
+
+## Technical interests
+- Python, SQL and R
+- Machine learning for both structured and unstructured data
+- Time series, forecasting, risk modelling
+- Backtesting, evaluation, and model diagnostics
+- AWS and Docker (learning and experimenting)
+
+## Philosophy
+I value simple, explainable models that perform well in practice.  
+Clear assumptions, good validation, and reproducibility matter more than unnecessary complexity.
+
+---
+📫 Based in Sydney, Australia
