@@ -16,7 +16,7 @@ I enjoy building end-to-end projects — from data ingestion and feature enginee
 
 
 ## Technical Skills
-- **Languages**: ![Python](https://img.shields.io)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,django,mongodb,postgres,git,vscode,docker" />
 
 
 
