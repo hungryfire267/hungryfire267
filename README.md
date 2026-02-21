@@ -16,6 +16,8 @@ I enjoy building end-to-end projects — from data ingestion and feature enginee
 
 ## Selected Projects
 - [Car Prediction Price Challenge](https://github.com/hungryfire267/car-price-prediction) - End-to-end tabular ML project focused on data cleaning, feature engineering, modelling and evaluation
+- [Landmark Image Classification](https://github.com/hungryfire267/landmark_classification) - Computer vision pipeline for large-scale image classification, covering data preprocessing, model training, evaluation and inference.
+- [Machine Learning Driven Imputation Methods](https://github.com/hungryfire267/thesis_work) - Practical study of imputation methods for tabular ML, focusing on downstream model performance robustness and reproducibility.
 - [Systematic Equity Research Project](https://github.com/hungryfire267/systematic-equities-research) *(in progress)* - Production-oriented ML pipeline for equity signal development, backtesting, and deployment using structured Australian financial data.
 
 ## Technical Stack
