@@ -15,7 +15,7 @@ I enjoy building end-to-end projects — from data ingestion and feature enginee
 - 🧠 Bridging academic methods with production-style pipelines
 
 ## Selected Projects
-- [Car Prediction Price Challenge](https://github.com/hungryfire267/car-price-prediction)
+- [Car Prediction Price Challenge](https://github.com/hungryfire267/car-price-prediction) - End-to-end tabular ML project focused on data cleaning, feature engineering, modelling and evaluation
 
 ## Technical Stack
 <img src="https://skillicons.dev/icons?i=python,r,matlab,postgres,latex,git,docker,aws,vscode,js,html,css" />
