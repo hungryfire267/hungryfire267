@@ -14,6 +14,8 @@ I enjoy building end-to-end projects — from data ingestion and feature enginee
 - 📈 Quantitative finance & systematic trading research
 - 🧠 Bridging academic methods with production-style pipelines
 
+## Selected Projects
+- ab 
 
 ## Technical Stack
 <img src="https://skillicons.dev/icons?i=python,r,matlab,postgres,latex,git,docker,aws,vscode,js,html,css" />
