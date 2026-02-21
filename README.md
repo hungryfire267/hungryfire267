@@ -1,4 +1,4 @@
-# Hi, I am Gordon 👋
+# Hi, I am Gordon and welcome to my Github page. 
 
 First-Class Honours Statistics graduate (UNSW) with a strong focus on applied data science, machine learning, and quantitative modelling.
 
@@ -23,5 +23,3 @@ Clear assumptions, good validation, and reproducibility matter more than unneces
 ## Hobbies
 Formula 1 🏎️ · Tennis 🎾 · Poker ♠️ · Travel ✈️
 
----
-📫 Based in Sydney, Australia
