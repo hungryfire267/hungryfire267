@@ -16,7 +16,7 @@ I enjoy building end-to-end projects — from data ingestion and feature enginee
 
 
 ## Technical Skills
-<img src="https://skillicons.dev/icons?i=python,r,matlab,postgres,latex,excel,powerbi,git,docker,aws,vscode,js,html,css" />
+<img src="https://skillicons.dev/icons?i=python,r,matlab,postgres,latex,git,docker,aws,vscode,js,html,css" />
 
 
 
