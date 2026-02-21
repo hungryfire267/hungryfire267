@@ -2,7 +2,7 @@
 
 First-Class Honours Statistics graduate (UNSW) with a strong focus on applied data science, machine learning and quantitative modelling.
 
-I enjoy building end-to-end projects from data ingestion and feature engineering to modelling, evaluation and deployment with an emphasis on **clarity, robustness, and real-world impact**.
+I enjoy building end-to-end projects from data ingestion and feature engineering to modelling, evaluation and deployment with an emphasis on clarity, robustness, and real-world impact.
 
 
 
