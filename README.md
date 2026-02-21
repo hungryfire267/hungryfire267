@@ -20,5 +20,8 @@ I enjoy building end-to-end projects — from data ingestion and feature enginee
 I value simple, explainable models that perform well in practice.  
 Clear assumptions, good validation, and reproducibility matter more than unnecessary complexity.
 
+## Hobbies
+Formula 1 🏎️ · Tennis 🎾 · Poker ♠️ · Travel ✈️
+
 ---
 📫 Based in Sydney, Australia
