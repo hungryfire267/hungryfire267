@@ -15,7 +15,7 @@ I enjoy building end-to-end projects — from data ingestion and feature enginee
 - 🧠 Bridging academic methods with production-style pipelines
 
 
-## Technical Skills
+## Technical Stack
 <img src="https://skillicons.dev/icons?i=python,r,matlab,postgres,latex,git,docker,aws,vscode,js,html,css" />
 
 
