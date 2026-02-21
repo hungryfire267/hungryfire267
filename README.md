@@ -36,3 +36,4 @@ Clear assumptions, good validation, and reproducibility matter more than unneces
 ## Hobbies
 Formula 1 🏎️ · Tennis 🎾 · Poker ♠️ · Travel ✈️
 
+[![Gordon Li profile views](https://u8views.com/api/v1/github/profiles/87181326/views/day-week-month-total-count.svg)](https://u8views.com/github/hungryfire267)
